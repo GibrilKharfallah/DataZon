@@ -1,4 +1,4 @@
-# 📦 Amazon-Inspired Data Warehouse Project
+# 📦 DataZon : An Amazon-Inspired Data Warehouse Project
 
 This project showcases the design, implementation, and analysis of a **Data Warehouse** for a fictional e-commerce company inspired by **Amazon**. It leverages a star schema model to support Business Intelligence (BI) use cases such as sales analysis, customer insights, and promotional impact.
 
