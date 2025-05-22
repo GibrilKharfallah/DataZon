@@ -66,5 +66,6 @@ Rapport Big data.pdf – Full project report and documentation (French)
 ## 📝 License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 ---
 Feel free to contribute, modify the code, or apply it to other datasets for experimentation.
